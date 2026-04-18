@@ -1,0 +1,4 @@
+out/
+healthcare.db
+lib/healthcare.db
+*.class
